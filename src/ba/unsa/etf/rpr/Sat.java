@@ -71,6 +71,6 @@ public class Sat {
     }
 
     public void Ispisi() {
-        System.out.println(sati + ": " + minute + ": " + sekunde);
+        System.out.println(sati + " : " + minute + " : " + sekunde);
     }
 }
